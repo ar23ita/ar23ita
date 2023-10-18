@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP, HTML,CSS , JS , React, MySQL,Laravel, jquery, Ajax**
 
-- 💬 Ask me about **PHP, HTML,CSS , JS , React, MySQL,Laravel**
+- 💬 Ask me about **PHP, HTML,CSS , JS , React, MySQL,Laravel, jquery, Ajax**
 
 - 📫 How to reach me **arpitapanda254@gmail.com**
 
